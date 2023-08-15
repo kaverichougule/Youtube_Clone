@@ -1,4 +1,4 @@
-Hosted Link: 
+Hosted Link: https://kaverichougule.github.io/Youtube_Clone/
 # Youtube Clone
 
 ![image](https://github.com/kaverichougule/Youtube_Clone/assets/101037685/6b4ba13b-3849-4bdb-95d6-f8ba0b67689d)
